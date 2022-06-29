@@ -29,7 +29,7 @@ let action = [
     },
 
     {
-        title: "John Wick- De volta ao jogo",
+        title: "John Wick",
         director: "Chad Stahelski",
         year: 2014
     },
@@ -49,13 +49,13 @@ let fantasy = [
     },
 
     {
-        title: "Labirinto - A magia do tempo",
+        title: "Labyrinth",
         director: "Jim Henson",
         year: 1986
     },
           
     {
-        title: "A História sem fim",
+        title: "The NeverEnding Story",
         director: "Wolfgang Petersen",
         year: 1984
     }
